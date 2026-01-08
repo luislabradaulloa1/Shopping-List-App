@@ -1,0 +1,16 @@
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\bin\Debug\net10.0-windows\ShoppingListApp.exe
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\bin\Debug\net10.0-windows\ShoppingListApp.deps.json
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\bin\Debug\net10.0-windows\ShoppingListApp.runtimeconfig.json
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\bin\Debug\net10.0-windows\ShoppingListApp.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\bin\Debug\net10.0-windows\ShoppingListApp.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.Form1.resources
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.csproj.GenerateResource.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.AssemblyInfoInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.AssemblyInfo.cs
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.csproj.CoreCompileInputs.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\refint\ShoppingListApp.dll
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.pdb
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ShoppingListApp.genruntimeconfig.cache
+C:\Users\luisl\OneDrive\Área de Trabalho\c#\ShoppingListApp\ShoppingListApp\obj\Debug\net10.0-windows\ref\ShoppingListApp.dll
